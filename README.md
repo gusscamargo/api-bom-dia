@@ -10,7 +10,7 @@
 ----------
 ### Opções de retorno
 
-[ ] Pode apenas retornar uma frase de bom dia
+[ ] Pode apenas retornar uma frase de bom dia aleatoria
 
 [ ] Pode apenas retornar uma frase de bom dia aleatoria junto a  uma foto aleatoria disponivel nos arquivos armazenados
 
